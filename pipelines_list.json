@@ -1,0 +1,10 @@
+[
+    {
+        "name": "terraform-pipeline",
+        "repo": "https://github.com/Safoa12/Terraform-with-AWS-Project.git",
+        "branch": "main",
+        "jenkinsfile": "resource/Jenkinsfile"
+      }
+
+
+]
